@@ -1,1 +1,2 @@
 # gestao-financeira
+O projeto é uma interface para um site de gestão financeira, com o objetivo de facilitar o desenvolvimento de sites, oferecendo uma plataforma integrada que permite a criação e a manutenção eficiente e intuitiva de funcionalidades financeiras. 
